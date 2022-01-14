@@ -1,4 +1,4 @@
-package cn.echo.proxy.proxystatic;
+package cn.echo.proxy.staticproxy;
 
 /**
  * 代理类-代理类

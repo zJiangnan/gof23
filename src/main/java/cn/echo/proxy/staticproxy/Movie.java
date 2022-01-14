@@ -1,4 +1,4 @@
-package cn.echo.proxy.proxystatic;
+package cn.echo.proxy.staticproxy;
 
 /**
  * 静态代理-目标对象接口

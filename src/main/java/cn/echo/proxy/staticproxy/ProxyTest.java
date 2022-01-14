@@ -1,4 +1,4 @@
-package cn.echo.proxy.proxystatic;
+package cn.echo.proxy.staticproxy;
 
 /**
  * 测试-静态代理
